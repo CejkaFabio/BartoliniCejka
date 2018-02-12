@@ -1,10 +1,6 @@
 BEllavccione
-cipolla
-<<<<<<< HEAD
 carbone
 Finocchio
-=======
 sgabello
 salsa
->>>>>>> 87e9004830fa758b3359f7ee381984f9367dc2ff
 cavallo
